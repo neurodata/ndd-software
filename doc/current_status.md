@@ -70,6 +70,7 @@
 * [To be Updated]
 * POC: sambit
 
-## LDDMM (into `skimage`)
+## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
 * [To be Updated]
 * POC: vikram
+- [PR](https://github.com/scikit-image/scikit-image/pull/5323)
