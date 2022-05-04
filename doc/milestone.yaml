@@ -16,21 +16,50 @@ Oblique Trees:
 
 Honest Trees:
   event:
-    - task1
-    - task2
-    - task3
-    - task4
-    - task5
+    - Issue Opened in scikit-learn
+    - Dev requests benchmark
+    - Close and merge
   date:
-    - date(2022,3,15)
-    - date(2022,4,15)
+    - date(2021,3,15)
+    - date(2021,10,15)
+    - date(2022,12,15)
+
+Binned Trees:
+  event:
+    - Create a repo
+    - Devise plan of action
+    - Open Issue in scikit-learn
+    - Close and merge
+  date:
     - date(2022,5,15)
     - date(2022,6,15)
     - date(2022,7,15)
+    - date(2023,12,15)
 
-# - Binned Trees
-# - Streaming Trees
-# - MORF
+Streaming Trees:
+  event:
+    - Issue Opened in scikit-learn
+    - Initial PR made
+    - Dev follow-up inquiry
+    - Last communication
+    - Close and merge
+  date:
+    - date(2020,11,15)
+    - date(2020,11,15)
+    - date(2022,1,15)
+    - date(2021,12,15)
+    - date(2022,12,15)
+
+MORF:
+  event:
+    - Devise plan of action
+    - Open Issue in scikit-learn
+    - Close and merge
+  date:
+    - date(2022,7,15)
+    - date(2022,8,15)
+    - date(2022,12,15)
+
 Graph Spectral Embedding:
   event:
     - Issue opened in scikit-learn
@@ -44,5 +73,7 @@ Graph Spectral Embedding:
     - date(2021,10,15)
     - date(2022,5,15)
     - date(2022,12,15)
+
 # - AutoGMM
+
 # - Multivariate Feature Selection
