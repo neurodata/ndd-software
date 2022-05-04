@@ -63,6 +63,13 @@
 
 ## AutoGMM
 * [To be Updated]
+* POC: tingshan
+* [Issue](https://github.com/scikit-learn/scikit-learn/issues/19338), [PR](https://github.com/scikit-learn/scikit-learn/pull/19562)
 
 ## Multivariate Feature Selection
 * [To be Updated]
+* POC: sambit
+
+## LDDMM (into `skimage`)
+* [To be Updated]
+* POC: vikram
