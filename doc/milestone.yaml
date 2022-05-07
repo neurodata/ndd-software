@@ -74,6 +74,16 @@ Graph Spectral Embedding:
     - date(2022,5,15)
     - date(2022,12,15)
 
-# - AutoGMM
+AutoGMM:
+  event:
+    - Issue opened in scikit-learn
+    - Initial PR made
+    - Last code review received
+    - Close and merge
+  date:
+    - date(2021,2,3)
+    - date(2021,2,25)
+    - date(2021,10,11)
+    - date(2022,12,15)
 
 # - Multivariate Feature Selection
