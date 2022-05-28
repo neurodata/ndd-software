@@ -62,9 +62,15 @@
 <img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.jpg?raw=true">
 
 ## AutoGMM
+* Current state: being implemented into `scikit-learn`
+* Checklists
+    - [ ] Address issues raised in the PR
+    - [ ] Follow up with Jovo
+* Reference: [Issue](https://github.com/scikit-learn/scikit-learn/issues/19338), [PR](https://github.com/scikit-learn/scikit-learn/pull/19562)
+* Milestone
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.jpg?raw=true">
 * [To be Updated]
 * POC: tingshan
-* [Issue](https://github.com/scikit-learn/scikit-learn/issues/19338), [PR](https://github.com/scikit-learn/scikit-learn/pull/19562)
 
 ## Multivariate Feature Selection
 * [To be Updated]
@@ -72,5 +78,5 @@
 
 ## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
 * [To be Updated]
-* POC: vikram
+* POC: -
 - [PR](https://github.com/scikit-image/scikit-image/pull/5323)
