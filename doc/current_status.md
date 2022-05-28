@@ -10,7 +10,7 @@
     - [ ] MNIST benchmarking tutorial
 * Reference: [Final PR](https://github.com/scikit-learn/scikit-learn/pull/22754), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/20819), [TEST PR](https://github.com/neurodata/scikit-learn/pull/11), [Paper](https://arxiv.org/pdf/1506.03410.pdf)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Oblique%20Trees.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Oblique%20Trees.svg?raw=true">
 
 ## Graph Spectral Embedding
 * Current state: being implemented into `scikit-learn`
@@ -19,7 +19,7 @@
     - [ ] Provide more reference in the issue
 * Reference: [Initial PR](https://github.com/scikit-learn/scikit-learn/pull/20029), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/18177)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Graph%20Spectral%20Embedding.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Graph%20Spectral%20Embedding.svg?raw=true">
 
 ## Streaming Trees
 * Current state: being implemented into `scikit-learn`
@@ -28,7 +28,7 @@
     - [ ] Create Benchmark to show that multiple `partial_fit` roughly equates to fitting in batch
 * Reference: [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/18888), [Initial PR](https://github.com/scikit-learn/scikit-learn/pull/18889), [Repo](https://github.com/neurodata/SDTF)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Streaming%20Trees.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Streaming%20Trees.svg?raw=true">
 
 ## Honest Trees
 * Current state: intial issue raised in `scikit-learn`
@@ -37,7 +37,7 @@
     - [ ] Make a PR associated with the initial issue
 * Reference: [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/19710), [Repo](https://github.com/neurodata/honest-forests), [Notebook](https://nbviewer.org/github/EYezerets/ProgLearn/blob/sklearnUF/docs/tutorials/honest_posteriorestimates_runtime.ipynb), [Paper](https://arxiv.org/abs/1907.00325)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Honest%20Trees.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Honest%20Trees.svg?raw=true">
 
 ## Binned Trees
 * Current state: planning phase
@@ -47,7 +47,7 @@
     - [ ] Create initial issue in `scikit-learn`
 * Reference: [Repo](https://github.com/PSSF23/scikit-learn-stream/tree/hist)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Binned%20Trees.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Binned%20Trees.svg?raw=true">
 
 ## MORF
 * Current state: planning phase
@@ -59,7 +59,7 @@
     - [ ] Create an issue
 * Reference: [Repo]()
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.svg?raw=true">
 
 ## AutoGMM
 * Current state: being implemented into `scikit-learn`
@@ -68,7 +68,7 @@
     - [ ] Follow up with Jovo
 * Reference: [Issue](https://github.com/scikit-learn/scikit-learn/issues/19338), [PR](https://github.com/scikit-learn/scikit-learn/pull/19562)
 * Milestone
-<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.jpg?raw=true">
+<img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.svg?raw=true">
 * [To be Updated]
 * POC: tingshan
 
