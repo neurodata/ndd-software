@@ -6,8 +6,13 @@
     - [x] TC benchmarking on simulation data
     - [x] Cohen's Kappa benchmarking on cc18 suites
     - [ ] Iris benchmarking tutorial
+        - [ ] update documentation
     - [ ] Simulation benchmarking tutorial
+        - [ ] visualize simulation data
+        - [ ] choose one simulation and limit runtime under 30 seconds
     - [ ] MNIST benchmarking tutorial
+        - [ ] multi-class one vs rest ROC curve
+        - [ ] printout performance over 10 CV for sqrt and n_features
 * Reference: [Final PR](https://github.com/scikit-learn/scikit-learn/pull/22754), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/20819), [TEST PR](https://github.com/neurodata/scikit-learn/pull/11), [Paper](https://arxiv.org/pdf/1506.03410.pdf)
 * Milestone
 <img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Oblique%20Trees.svg?raw=true">
