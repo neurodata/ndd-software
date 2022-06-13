@@ -15,3 +15,6 @@ There are three strategies of stepwise regression (James et al. 2014,P. Bruce an
 -  Backward selection (or backward elimination), which starts with all predictors in the model (full model), iteratively removes the least contributive predictors, and stops when you have a model where all predictors are statistically significant.
 -  Stepwise selection (or sequential replacement), which is a combination of forward and backward selections. You start with no predictors, then sequentially add the most contributive predictors (like forward selection). After adding each new variable, remove any variables that no longer provide an improvement in the model fit (like backward selection).
 ```
+
+## Jovo's note
+- Add sequential replacement into sklearn
