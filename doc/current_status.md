@@ -2,6 +2,7 @@
 
 ## Oblique Trees
 * Current state: being implemented into `scikit-learn`
+* POC: Adam Li, Jong Shin
 * Checklists
     - [x] TC benchmarking on simulation data
     - [x] Cohen's Kappa benchmarking on cc18 suites
@@ -85,3 +86,8 @@
 * [To be Updated]
 * POC: -
 - [PR](https://github.com/scikit-image/scikit-image/pull/5323)
+
+## Sequential Feature Selection
+* Current state: brainstorming/planning
+* POC: Jong Shin, CEP, Sambit Panda, Mike Powell
+* Reference: [CEP's Note](202205_cep-note.md)
