@@ -1,6 +1,10 @@
 # CEP's note on sequential feature selection
 
-`Excerpted from 05/04/2022 email correspondance`
+<div align="right">
+[<a href="current_status.md">Go Back</a>]
+</div>
+
+`Excerpt from 05/04/2022 email correspondance`
 
 ```
 i use stepAIC in R.
@@ -18,3 +22,6 @@ There are three strategies of stepwise regression (James et al. 2014,P. Bruce an
 
 ## Jovo's note
 - Add sequential replacement into sklearn
+
+## More Reference
+- https://stackoverflow.com/questions/49493468/python-equivalent-for-r-stepaic-for-logistic-regression-direction-backwards
