@@ -6,20 +6,26 @@
 * Checklists
     - [x] TC benchmarking on simulation data
     - [x] Cohen's Kappa benchmarking on cc18 suites
-    - [ ] Iris benchmarking tutorial
-        - [ ] update documentation
+    - [x] Iris benchmarking tutorial
+        - [x] update documentation
+        - [x] add OT functionality to sklearn benchmark script `plot_iris_dtc.py`
     - [ ] Simulation benchmarking tutorial
         - [x] visualize simulation data
         - [x] choose one simulation and limit runtime under 30 seconds
+        - [ ] use absolute value of the plot in addition to the delta plot (OF minus RF)
     - [ ] MNIST benchmarking tutorial
         - [x] multi-class one vs rest ROC curve
         - [x] printout performance over 10 CV for sqrt and n_features
-* Reference: [Final PR](https://github.com/scikit-learn/scikit-learn/pull/22754), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/20819), [TEST PR](https://github.com/neurodata/scikit-learn/pull/11), [Paper](https://arxiv.org/pdf/1506.03410.pdf)
+        - [ ] perform grid/random serach over `max_features` and `n_estimators`
+    - [ ] Pickle trained trees/forests and assess time complexity/memory and performance trade-offs (can be sotred as a pandas dataframe)
+        * Pickle dump with protocol-5 to measure the length of the string
+* Reference: [Final PR](https://github.com/scikit-learn/scikit-learn/pull/22754), [Local PR](https://github.com/neurodata/scikit-learn/pull/21), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/20819), [TEST PR](https://github.com/neurodata/scikit-learn/pull/11), [Paper](https://arxiv.org/pdf/1506.03410.pdf)
 * Milestone
 <img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Oblique%20Trees.svg?raw=true">
 
 ## Graph Spectral Embedding
 * Current state: being implemented into `scikit-learn`
+* POC: Jong Shin
 * Checklists
     - [ ] Run benchmark using the same set up described in [this paper](https://doi.org/10.1109/HPEC.2017.8091045)
     - [ ] Provide more reference in the issue
@@ -78,16 +84,12 @@
 * [To be Updated]
 * POC: tingshan
 
-## Multivariate Feature Selection
-* [To be Updated]
-* POC: sambit
-
-## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
-* [To be Updated]
-* POC: -
-- [PR](https://github.com/scikit-image/scikit-image/pull/5323)
-
-## Sequential Feature Selection
+## Multivariate/Sequential Feature Selection
 * Current state: brainstorming/planning
 * POC: Jong Shin, CEP, Sambit Panda, Mike Powell
 * Reference: [CEP's Note](202205_cep-note.md)
+
+## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
+* [To be Updated]
+* POC: Vikram Chandrashekhar, Devin Crowley
+- [PR](https://github.com/scikit-image/scikit-image/pull/5323)
