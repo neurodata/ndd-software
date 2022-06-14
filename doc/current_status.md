@@ -92,4 +92,4 @@
 ## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
 * [To be Updated]
 * POC: Vikram Chandrashekhar, Devin Crowley
-- [PR](https://github.com/scikit-image/scikit-image/pull/5323)
+* [PR](https://github.com/scikit-image/scikit-image/pull/5323)
