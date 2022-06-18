@@ -12,12 +12,16 @@
     - [ ] Simulation benchmarking tutorial
         - [x] visualize simulation data
         - [x] choose one simulation and limit runtime under 30 seconds
-        - [ ] use absolute value of the plot in addition to the delta plot (OF minus RF)
-    - [ ] MNIST benchmarking tutorial
+        - [x] use absolute value of the plot in addition to the delta plot (OF minus RF)
+        - [x] perform grid/random serach over `max_features` and `n_estimators`
+        - [ ] fix legend and text
+    - [x] MNIST benchmarking tutorial
         - [x] multi-class one vs rest ROC curve
         - [x] printout performance over 10 CV for sqrt and n_features
-        - [ ] perform grid/random serach over `max_features` and `n_estimators`
+        - [x] run robustedness test
     - [ ] Pickle trained trees/forests and assess time complexity/memory and performance trade-offs (can be sotred as a pandas dataframe)
+        - [ ] add performance trade-off plot (accuracy/AUC) vs prediction time, training time, size of tree (depth, # of leaves)
+        - [ ] scatter plot of test score vs score time, test score vs len(pickle.dump(trained_models)) for each grid search results
         * Pickle dump with protocol-5 to measure the length of the string
 * Reference: [Final PR](https://github.com/scikit-learn/scikit-learn/pull/22754), [Local PR](https://github.com/neurodata/scikit-learn/pull/21), [Initial Issue](https://github.com/scikit-learn/scikit-learn/issues/20819), [TEST PR](https://github.com/neurodata/scikit-learn/pull/11), [Paper](https://arxiv.org/pdf/1506.03410.pdf)
 * Milestone
