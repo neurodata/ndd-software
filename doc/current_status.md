@@ -94,6 +94,6 @@
 * Reference: [CEP's Note](202205_cep-note.md)
 
 ## Large Deformation Diffeomorphic Metric Mapping (LDDMM) (into `skimage`)
-* [To be Updated]
-* POC: Vikram Chandrashekhar, Devin Crowley
-* [PR](https://github.com/scikit-image/scikit-image/pull/5323)
+* Current State: temporarily on hold
+* POC: Thomas Athey, Daniel Tward, Jong Shin, Vikram Chandrashekhar, Devin Crowley
+* Reference: [PR](https://github.com/scikit-image/scikit-image/pull/5323), [EMLDDMM](https://github.com/twardlab/emlddmm), [ANTs](http://stnava.github.io/ANTs/), [BICCN](https://biccn.org/tools)
