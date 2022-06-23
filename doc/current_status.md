@@ -57,11 +57,12 @@
 
 ## Binned Trees
 * Current state: planning phase
+* POC: Adam Li, Jong Shin
 * Checklists
     - [ ] Make a standalone repo for the project
     - [ ] Consult with Hao for further development
     - [ ] Create initial issue in `scikit-learn`
-* Reference: [Repo](https://github.com/PSSF23/scikit-learn-stream/tree/hist)
+* Reference: [Issue](https://github.com/neurodata/scikit-learn/issues/23), [Repo](https://github.com/PSSF23/scikit-learn-stream/tree/hist), [Adam's PR Draft #1](https://github.com/neurodata/scikit-learn/pull/24), [Adam's PR Draft #2](https://github.com/neurodata/scikit-learn/pull/25)
 * Milestone
 <img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/Binned%20Trees.svg?raw=true">
 
@@ -79,6 +80,7 @@
 
 ## AutoGMM
 * Current state: being implemented into `scikit-learn`
+* POC: Tingshan Liu, Jong Shin
 * Checklists
     - [ ] Address issues raised in the PR
     - [ ] Follow up with Jovo
@@ -86,7 +88,7 @@
 * Milestone
 <img src="https://github.com/jshinm/neurodata-software-milestone/blob/main/output/MORF.svg?raw=true">
 * [To be Updated]
-* POC: tingshan
+
 
 ## Multivariate/Sequential Feature Selection
 * Current state: brainstorming/planning
